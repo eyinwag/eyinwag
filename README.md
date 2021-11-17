@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/kubernetes/community/blob/master/icons/png/resources/unlabeled/deploy-128.png"/>
+<img align="right" src="https://github.com/kubernetes/community/blob/master/icons/png/infrastructure_components/unlabeled/etcd-128.png"/>
 
 ### 😄 Welcome to my GitHub   
 - 🔭 I’m yingxin                                         
