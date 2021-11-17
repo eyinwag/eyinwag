@@ -1,4 +1,8 @@
-### Hi there 👋
+### 😄 Welcome to my GitHub 
+- 🔭 I’m yingxin
+- 🌱 I’m currently working on k8s
+- 💬 Ask me about ...
+
 
 <!--
 **eyinwag/eyinwag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
